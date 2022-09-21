@@ -1,2 +1,4 @@
 Out_Files/*
 Indexes/*
+.DS_Store
+*.zip
